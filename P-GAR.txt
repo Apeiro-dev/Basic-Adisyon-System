@@ -1,0 +1,20 @@
+***********************************************P-GAR Kuralları (Proje Geliştirme ve Aşama Raporlama)*******************************
+
+? = Bir fikrin, yazı'nın oylama için kullanılması gereken işarettir.
+
+! = Bir fikrin, yazı'nın öncelikli ve önemli konumda olduğunu gösteren işarettir.
+
+* = Bir fikrin, yazı'nın yeni eklendiğini gösteren işarettir.
+
+<> = Bir fikrin, yazı'nın geliştirme sürecine dahil edildiğini, üzerinde çalışıldığını gösteren işarettir.
+
+                                              KURAL DETAYLARI
+
+? işareti kullanılan cümlenin arkaplan rengi sarı olmalıdır.
+
+! işareti kullanılan cümlenin arkaplan rengi kırmızı olmalıdır.
+
+? işareti kullanılan cümlenin oylaması; ([1] = True yada [0] = False) olarak oylanmalıdır.
+
+	Bu işaretler kullanılırken her cümlenin başına koyulmalıdır. Oylama yapılırken ise isim
+ile beraberinde cümle sonuna konulmalıdır.
